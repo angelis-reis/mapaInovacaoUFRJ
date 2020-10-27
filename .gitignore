@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+web/node_modules
+web/.pnp
+web.pnp.js
+
+# testing
+web/coverage
+
+# production
+web/build
+
+# misc
+web/.DS_Store
+web/.env
+web/.env.local
+web/.env.development.local
+web/.env.test.local
+web/.env.production.local
+
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+
+
+# dependencies
+backend/node_modules
+backend/.pnp
+backend.pnp.js
+
+# testing
+backend/coverage
+
+# production
+backend/build
+
+# misc
+backend/.DS_Store
+backend/.env
+backend/.env.local
+backend/.env.development.local
+backend/.env.test.local
+backend/.env.production.local
+
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
