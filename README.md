@@ -1,3 +1,7 @@
-App Web Happy, desenvolvido na 3 Semana NLW da RocketSeat.(em desenvolvimento)
+Mapa de Inovação da Universidade Fedeal do Rio de Janeiro (em desenvolvimento)
 
-Desenvolvido com React, NodeJS e React Native.
+Aplicativo Web desenvolvido com NodeJs, ReactJs e TypeScript.
+
+Aplicativo para cadastro e busca de locais, equipamentos e pessoas relacionadas a temática da inovação na Universaidade Federal do Rio de Janeiro.
+
+
